@@ -67,3 +67,9 @@ main{
     height: 100%;
     width: 100%;
 }
+.pig{
+    padding: 20px;
+    border: none;
+    size-adjust: 20%;
+    justify-content: right;
+}
