@@ -80,3 +80,8 @@ main{
     width: 30%;
     justify-content: right;
 }
+.fermentadores{
+    padding : 15px;
+    border: 5px;
+    transition: all 3s;
+}
